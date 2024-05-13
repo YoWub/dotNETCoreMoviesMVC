@@ -28,3 +28,4 @@ c:\Users\User1\Files\Projects\MvcMovie\obj\Debug\net8.0\refint\MvcMovie.dll
 c:\Users\User1\Files\Projects\MvcMovie\obj\Debug\net8.0\MvcMovie.pdb
 c:\Users\User1\Files\Projects\MvcMovie\obj\Debug\net8.0\MvcMovie.genruntimeconfig.cache
 c:\Users\User1\Files\Projects\MvcMovie\obj\Debug\net8.0\ref\MvcMovie.dll
+c:\Users\User1\Files\Projects\MvcMovie\obj\Debug\net8.0\MvcMovie.sourcelink.json
